@@ -71,6 +71,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 - [斯坦福分布式系统讨论课](http://www.scs.stanford.edu/20sp-cs244b/)
 - [华盛顿大学分布式系统课程-UW CSE490H: Distributed Systems](https://courses.cs.washington.edu/courses/cse490h/11wi/)
 - 一些经典面试题讲解：[TopK frequent items](https://www.youtube.com/watch?v=kx-XDoPjoHw)、[Distributed Loggin system](https://www.youtube.com/watch?v=WzHgOl3xvu4)、[Design web crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)、[Architecture of Amazon, Flipkart like e-commerce system](https://www.youtube.com/watch?v=2BWr0fsDSs0)、[系统设计-短链生成系统-TinyURL](https://www.bilibili.com/video/BV1dy4y1E7A3/)
+- [InterviewLegend](https://interviewlegend.com) - 按公司拆解的系统设计面试指南（英文，免费阅读）
 
 ## 开源项目  
 - [RocketsDB](http://rocksdb.org/)
